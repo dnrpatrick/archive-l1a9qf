@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dnrpatrick.github.io/archive-l1a9qf/sitemap.xml
